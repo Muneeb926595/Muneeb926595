@@ -41,6 +41,8 @@
   <a href="mailto:muneebkhann0@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<a href="https://app.daily.dev/MuneebScala"><img src="https://api.daily.dev/devcards/61d099dbc2f44298955d3d81d2c84446.png?r=lmv" width="400" alt="Muneeb Ur Rehman's Dev Card"/></a>
+
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
 
